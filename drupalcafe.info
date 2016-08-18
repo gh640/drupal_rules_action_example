@@ -1,0 +1,4 @@
+name = DrupalCafe
+description = Provides samples of Rules actions.
+core = 7.x
+dependencies[] = rules
